@@ -12,6 +12,8 @@ Onderwerp: Een online receptenboek met makkelijke recepten voor alle leeftijden.
 
     Favorieten opslaan
 
+    Reacties plaatsen
+
     Goed werkend op mobiel
 
  Stijl / look : Fris, vrolijk, met veel foto’s, heldere kleuren en een vriendelijk design.
